@@ -1,5 +1,5 @@
 # old-macos rundown
-## We will provide you with all previous versions of macOS, from public beta to Mojave, in this section.
+## In this section, you will find all previous versions of macOS, from public beta to Ventura.
 We ensure that all of our download links are fast and always available; if the links are unavailable, we will replace them. 
 temporarily
 
